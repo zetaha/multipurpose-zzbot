@@ -8,11 +8,14 @@ Overwatch 6v6), an integrated World of Warcraft character simulator which uses <
 
 <h1> Setup </h1>
 Requires Python 3
-```
+
+```sh
 python -m pip install requirements.txt
 ```
+
 Check <a href="https://github.com/Rapptz/discord.py"> discord.py page </a> and follow the instructions for installing voice. 
 Install the latest version of SimulationCraft from <a href="https://www.simulationcraft.org/"> SimulationCraft </a> and update the path in 
+
 ```python
 Class simcraft:
 ...
