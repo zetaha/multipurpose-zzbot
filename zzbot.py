@@ -280,7 +280,7 @@ class simcraft:
         """
         in os.system replace 'simc.exe' with the path to Simulationcraft executable. 
         """ 
-        os.system('simc.exe ' + self.instru + '> ' + 'output' + self.filename)
+        os.system(config.path + ' ' + self.instru + '> ' + 'output' + self.filename)
         self.f.close()
         self.f = open('output' + filename,'r')
         for self.r in self.f:
