@@ -25,6 +25,9 @@ Class simcraft:
 ```
 
 </li>
+<li> Get your API key from <a href="https://developers.google.com/youtube/"> here </a>  </li>
+<li> Get a discord token for a bot from  <a href="https://discordapp.com/developers/docs/intro"> here </a>  </li>
+<li> Update the config file! </li>
 </ul>
 
 <h1> Credits </h1>
