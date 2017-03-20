@@ -18,10 +18,12 @@ python -m pip install requirements.txt
 <li> Check <a href="https://github.com/Rapptz/discord.py"> discord.py page </a> and follow the instructions for installing voice, it is necessary for using the music module. </li>
 
 <li>Install the latest version of SimulationCraft from <a href="https://www.simulationcraft.org/"> SimulationCraft </a> and update the path in
+
 ```python
 Class simcraft:
 ...
 ```
+
 </li>
 </ul>
 
