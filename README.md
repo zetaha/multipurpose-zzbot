@@ -7,11 +7,11 @@ videos published in the past 24h in a specified language), a matchmaking feature
 Overwatch 6v6), an integrated World of Warcraft character simulator which uses <a href="https://www.simulationcraft.org/"> SimulationCraft </a>
 
 <h1> Setup </h1>
-
-```sh
-pip install requirements.txt
+Requires Python 3
 ```
-Check <a href="https://github.com/Rapptz/discord.py">discord.py page </a> for installing and running the music features. 
+python -m pip install requirements.txt
+```
+Check <a href="https://github.com/Rapptz/discord.py"> discord.py page </a> and follow the instructions for installing voice. 
 Install the latest version of SimulationCraft from <a href="https://www.simulationcraft.org/"> SimulationCraft </a> and update the path in 
 ```python
 Class simcraft:
